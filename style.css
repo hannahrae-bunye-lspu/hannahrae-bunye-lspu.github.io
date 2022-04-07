@@ -1,0 +1,202 @@
+*{
+	box-sizing: border-box;
+}
+.Pic{
+	width: auto;
+	height: 40%;
+}
+.Left{
+	float: left;
+	width: 25%;
+	padding: 5px 5px 5px 7px;
+	background-color: #8559ff;
+}
+.Right{
+	float: left;
+	width: 66%;
+	padding: 20px 10px 20px 10px;
+	margin-left: 10px;
+	text-align: justify;
+}
+.year{
+	float: left;
+	width: 25%;
+	padding: 20px 5px 10px 0px;
+}
+.school{
+	float: left;
+	width: 75%;
+	padding: 0px 5px 20px 0px;
+}
+.container{
+	text-align: right;
+	background-color: #c4c4c4;
+	width: 70%;
+	border-radius: 15px;
+}
+.skill{
+	background-color: #6200ff;
+	padding: 1%;
+	border-radius: 15px;
+}
+.writting{
+	width: 80%;
+}
+.communication{
+	width: 80%;
+}
+.illustrating{
+	width: 80%;
+}
+.student{
+	text-align: center;
+	font-family: helvetica;
+}
+.profile{
+	text-align: justify;
+	color: #ffffff;
+	font-family: helvetica;
+}
+.about{
+	text-align: justify;
+	font-family: helvetica;
+	color: #ffffff;
+}
+#email:link{
+	color: white;
+	text-align: center;
+}
+#email:visited{
+	color: grey;
+}
+#email:hover{
+	color: #525252;
+}
+#email:active{
+	color: black;
+}
+#number:link{
+	color: white;
+	text-align: center;
+}
+#number:visited{
+	color: grey;
+}
+#number:hover{
+	color: #525252;
+}
+#number:active{
+	color: black;
+}
+a:link{
+	color: white;
+}
+:visited{
+	color: grey;
+}
+a:hover{
+	color: #ff69a0;
+}
+a:active{
+	color: mediumpurple;
+}
+h1{
+	text-align: center;
+	color: #ffffff;
+	font-family: helvetica;
+}
+p{
+	text-align: justify;
+	font-family: helvetica;
+}
+
+hr.line {
+ 			border-top: 5px solid #8c66ff;
+		}
+@media screen and (max-width: 633px){
+.Pic{
+	width: auto;
+	height: 51%;
+}
+.Left{
+	padding: 5px 5px 5px 5px;
+	background-color: #8559ff;
+	width: 100%;
+}
+.Right{
+	padding: 5px 7px 5px 0px;
+	text-align: justify;
+	width: 100%;
+}
+.year{
+	float: left;
+	width: 25%;
+	padding: 20px 5px 5px 0px;
+}
+.school{
+	float: left;
+	width: 75%;
+	padding: 0px 5px 20px 0px;
+}
+.container{
+	text-align: right;
+	background-color: #c4c4c4;
+	width: 90%;
+	border-radius: 15px;
+	margin-bottom: 25px;
+}
+.skill{
+	background-color: #6200ff;
+	padding: 1%;
+	border-radius: 15px;
+}
+.writting{
+	width: 80%;
+}
+.communication{
+	width: 80%;
+}
+.illustrating{
+	width: 80%;
+}
+.student{
+	text-align: center;
+	font-family: helvetica;
+}
+.profile{
+	text-align: justify;
+	color: #ffffff;
+	font-family: helvetica;
+}
+.about{
+	text-align: justify;
+	font-family: helvetica;
+	color: #ffffff;
+}
+#email:link{
+	color: white;
+	text-align: center;
+}
+#email:visited{
+	color: grey;
+}
+#email:hover{
+	color: #525252;
+}
+#email:active{
+	color: black;
+}
+#number:link{
+	color: white;
+	text-align: center;
+}
+#number:visited{
+	color: grey;
+}
+#number:hover{
+	color: #525252;
+}
+#number:active{
+	color: black;
+}
+}
