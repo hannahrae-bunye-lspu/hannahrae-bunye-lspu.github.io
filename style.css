@@ -3,7 +3,7 @@
 }
 .Pic{
 	width: auto;
-	height: 40%;
+	height: 51%;
 }
 .Left{
 	float: left;
@@ -89,13 +89,13 @@
 	color: black;
 }
 a:link{
-	color: white;
+	color: black;
 }
 :visited{
-	color: grey;
+	color: #424242;
 }
 a:hover{
-	color: #ff69a0;
+	color: #0384fc;
 }
 a:active{
 	color: mediumpurple;
